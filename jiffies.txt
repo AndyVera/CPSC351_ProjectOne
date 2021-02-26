@@ -1,1 +1,0 @@
-When /proc/jiffies is read, Jiffies is: 4294959493
